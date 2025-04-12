@@ -1,0 +1,86 @@
+[ {
+  "id" : 4,
+  "name" : "wqe",
+  "coordinates" : {
+    "x" : 1.0,
+    "y" : 1.0
+  },
+  "creationDate" : [ 2025, 4, 11, 15, 21, 31, 55824700 ],
+  "price" : 123,
+  "refundable" : false,
+  "type" : "VIP",
+  "venue" : {
+    "id" : 5,
+    "name" : "qwe",
+    "capacity" : 1,
+    "type" : "BAR"
+  }
+}, {
+  "id" : 7,
+  "name" : "djng",
+  "coordinates" : {
+    "x" : 4.0,
+    "y" : 5.0
+  },
+  "creationDate" : [ 2025, 4, 11, 16, 46, 10, 20492100 ],
+  "price" : 12314,
+  "refundable" : false,
+  "type" : "VIP",
+  "venue" : {
+    "id" : 8,
+    "name" : "jldkfg",
+    "capacity" : 354,
+    "type" : "BAR"
+  }
+}, {
+  "id" : 6,
+  "name" : "qwewqewqe",
+  "coordinates" : {
+    "x" : 123.0,
+    "y" : 321.0
+  },
+  "creationDate" : [ 2025, 4, 11, 15, 21, 50, 854011200 ],
+  "price" : 123,
+  "refundable" : false,
+  "type" : "VIP",
+  "venue" : {
+    "id" : 7,
+    "name" : "dqwdwqd",
+    "capacity" : 123,
+    "type" : "BAR"
+  }
+}, {
+  "id" : 8,
+  "name" : "g",
+  "coordiates" : {
+    "x" : 7.0,
+    "y" : 8.0
+  },
+  "creationDate" : [ 2025, 4, 12, 1, 9, 33, 542140400 ],
+  "price" : 875,
+  "refundable" : false,
+  "type" : "VIP",
+  "venue" : {
+    "id" : 9,
+    "name" : "u",
+    "capacity" : 8,
+    "type" : "BAR"
+  }
+}, {
+  "id" : 9,
+  "name" : "h",
+  "coordinates" : {
+    "x" : 4.0,
+    "y" : 5.0
+  },
+  "creationDate" : [ 2025, 4, 12, 8, 19, 39, 3816500 ],
+  "price" : 3455,
+  "refundable" : false,
+  "type" : "VIP",
+  "venue" : {
+    "id" : 10,
+    "name" : "h",
+    "capacity" : 6,
+    "type" : "BAR"
+  }
+} ]
